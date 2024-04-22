@@ -1,4 +1,4 @@
-def mean_of_numbers(num_list):
+def mean_of_numbers2(num_list):
     numbers_sum = 0
     numbers_count = 0
 
